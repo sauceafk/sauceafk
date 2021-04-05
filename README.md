@@ -1,4 +1,5 @@
-  ___________________
+<--!
+___________________
 :' ,__________,  ':  `.
 | '            `  |    `.
 | |  Hi, I'm   |  |      `.
@@ -20,6 +21,7 @@
  \------------------/    | ( # ) |
                          |  '''  |
                          \_______/
+-->
 
 - I’m interested in design, illustration, web design, and podcasting.
 - I’m currently learning javascript.
